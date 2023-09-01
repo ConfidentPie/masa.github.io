@@ -5241,7 +5241,7 @@ button,
   }
 }
 
-.news__item--internship::before {
+.news__item--internship {
   background-image: url("../img/news/slide1-desktop@1x.webp");
 }
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
@@ -5263,7 +5263,7 @@ button,
   }
 }
 
-.news__item--travel::before {
+.news__item--travel {
   background-image: url("../img/news/slide2-desktop@1x.webp");
 }
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
@@ -5285,7 +5285,7 @@ button,
   }
 }
 
-.news__item--volunteer::before {
+.news__item--volunteer {
   background-image: url("../img/news/slide3-desktop@1x.webp");
 }
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
@@ -5307,7 +5307,7 @@ button,
   }
 }
 
-.news__item--career::before {
+.news__item--career {
   background-image: url("../img/news/slide4-desktop@1x.webp");
 }
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
