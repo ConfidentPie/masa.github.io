@@ -3706,7 +3706,7 @@ button,
 @media (max-width: 767px) {
   .hero__container p {
     position: relative;
-    max-width: 80%;
+    max-width: 90%;
     padding: 0 14px 10px;
     font-size: 14px;
     background-color: rgb(255, 255, 255);
