@@ -5940,7 +5940,7 @@ button,
 }
 .faq__item.is-active:hover:not([disabled]) .faq__button {
   margin-bottom: 10px;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: transperent;
   border-color: rgb(255, 255, 255);
 }
 .faq__item.is-active:hover:not([disabled]) .faq__button::before {
@@ -5948,7 +5948,7 @@ button,
 }
 .faq__item.is-active:focus-within:not([disabled]) .faq__button {
   margin-bottom: 10px;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: transperent;
   border-color: rgb(255, 255, 255);
 }
 .faq__item.is-active:focus-within:not([disabled]) .faq__button::before {
